@@ -1,0 +1,12 @@
+.marked-text {
+    font-size: 60px;
+    font-weight: bold;
+    color: var(--primary);
+}
+h1 {
+    font-size: 60px;
+    color: var(--black-text);
+}
+p {
+    line-height: 1.6;
+}
